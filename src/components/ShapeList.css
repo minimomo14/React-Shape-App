@@ -1,0 +1,12 @@
+.ShapeList {
+    border: 2px solid tomato;
+}
+
+.ShapeForm {
+    border: 2px solid tomato;
+}
+
+.ShapeList__shapes {
+    display: flex;
+    flex-wrap: wrap;
+  }

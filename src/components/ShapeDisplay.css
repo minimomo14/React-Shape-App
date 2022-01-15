@@ -1,0 +1,7 @@
+.ShapeDisplay {
+    border: 2px solid rgba(0,0,0,.5);
+}
+
+.ShapeDisplay.ShapeDisplay--circle {
+    border-radius: 50%;
+}
